@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages lalalaalal
+## Welcome to GitHub Pages lalalaalala
 
 You can use the [editor on GitHub](https://github.com/stamatisvasilis/terminator/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
